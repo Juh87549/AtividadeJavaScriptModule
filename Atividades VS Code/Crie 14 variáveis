@@ -1,0 +1,37 @@
+// Atividade Crie 14 variaveis, sendo duas de cada tipo.
+
+// Tipo Number
+var n_inteiro = 21;
+console.log(n_inteiro);
+
+var n_negativo = -2364;
+console.log(n_negativo);
+
+//Tipo String
+var frase_01 = "Bem-vindo ao CodePen!";
+console.log(frase_01);
+
+//Tipo Boolean
+var esta_sim = true;
+var nao_esta = false;
+
+console.log("Esta chovendo e repangalejando?");
+console.log(esta_sim);
+
+console.log("Esta fazendo um sol de racha ai?");
+console.log(nao_esta);
+
+//Tipo Array
+var lista_compras = ["mouse", "teclado", "headset", "garrafa"];
+console.log(lista_compras);
+
+//Tipo Object
+var celular = { marca: "Iphone", modelo: "XS Max", ano: 2018};
+console.log(celular);
+
+//Tipo Undefined e Null
+var valor_nao_definido;
+console.log("valor nao definido: " + valor_nao_definido);
+
+var valor_vazio = null;
+console.log("valor vazio: " + valor_vazio);

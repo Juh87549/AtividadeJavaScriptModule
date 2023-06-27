@@ -1,0 +1,25 @@
+//Criar duas variáveis usando a palavra-chave var.
+
+var texto_01 = "Vamos pegar uma praia amanhã?";
+console.log(texto_01);
+
+var texto_02 = "Se estiver chovendo não vou!";
+console.log(texto_02);
+
+//Criar duas variáveis usando a palavra-chave let.
+
+let eh_verdade = "true";
+let eh_mentira = "false";
+
+console.log("Você vai fazer o Enem ?");
+console.log(eh_verdade);
+
+console.log("Você vai viajar para a Disney esse ano?");
+console.log(eh_mentira);
+
+//Criar duas variáveis usando a palavra-chave const.
+
+const n_1 = 10
+const n_2 = 5
+
+console.log(n_1, "não é maior que", n_2)
