@@ -1,0 +1,61 @@
+//1º) Determine o valor lógico para cada uma das expressões a seguir e escreva o resultado no console:
+//a)
+var x = 5;
+var y = 8;
+
+console.log(x === y);
+
+//b)
+var x = 6;
+var y = 6;
+
+console.log(x !== y);
+
+//c)
+var x = 7;
+var y = 7;
+
+console.log(x == y);
+
+// 2º) Declare uma variável chamada nome.
+//a) e b)
+var nome = "fulano";
+var txt = "Boa noite, "+ nome;
+
+console.log(txt);
+
+// 3º) Considere x = x + y, dado que x = 10 e y = 5.
+//a)
+var x = 10;
+var y = 5;
+var resultSoma = (x + y);
+
+console.log(resultSoma);
+
+//b)
+var x = 10;
+var y = 5;
+var resultMulti = (x * y);
+
+console.log(resultMulti);
+
+//c)
+var x = 10;
+var y = 5;
+var resultMod = (x % y);
+
+console.log(resultMod);
+
+//d)
+var x = 10;
+var y = 5;
+var resultDiv = (x / y);
+
+console.log(resultDiv);
+
+//e)
+var x = 10;
+var y = 5;
+var resultSub = (x - y)
+
+console.log(resultSub)
