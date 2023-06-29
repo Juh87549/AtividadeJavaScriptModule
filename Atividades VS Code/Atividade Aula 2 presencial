@@ -1,0 +1,27 @@
+//Aula 2 presencial
+
+//Questão 1
+
+var numero = new Number(300);
+console.log(numero);
+
+var n2 = new Number(999);
+console.log(n2);
+
+var n3 = new Number(21);
+console.log(n3);
+
+
+//Questão 2
+
+console.log(Number.MAX_VALUE);
+console.log(Number.MIN_VALUE);
+console.log(Number.EPSILON);
+console.log(Number.MIN_SAFE_INTEGER);
+
+//Questão 3
+
+var n4 = new Number(150);
+console.log(n4);
+
+console.log(n4.toString);
